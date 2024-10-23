@@ -13,12 +13,12 @@ This application is a service marketplace for local vendors, similar to **Urban 
 
 ## Screenshots
 <p align="center">
-  <img src="Fixit.png" alt="Home Screen" width="200"/>
-  <img src="Fixit.png" alt="Service Booking" width="200"/>
-  <img src="Fixit.png" alt="Service Booking" width="200"/>
-</p>
+  <img src="Fixit.png" alt="Home Screen" width="250"/>
+  <img src="Fixit.png" alt="Service Booking" width="250"/>
+  <img src="Fixit.png" alt="Service Booking" width="250"/>
+</p><br><br>
 <p align="center">
-  <img src="Fixit.png" alt="Home Screen" width="200"/>
+  <img src="admin.png" alt="Home Screen"/>
 </p>
 
 
