@@ -28,7 +28,3 @@ This application is a service marketplace for local vendors, similar to **Urban 
 - **APIs**: Google Maps API
 - **Authentication**: Firebase Authentication (OTP/Google Sign-in)
 
-## Setup and Installation
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/darshanpatel4/Fixit
