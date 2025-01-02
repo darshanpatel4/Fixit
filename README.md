@@ -14,8 +14,8 @@ This application is a service marketplace for local vendors, similar to **Urban 
 ## Screenshots
 <p align="center">
   <img src="Fixit.png" alt="Home Screen" width="250"/>
-  <img src="Fixit2.png" alt="Service Booking" width="250"/>
-  <img src="Fixit3.png" alt="Service Booking" width="250"/>
+  <img src="fixit2.png" alt="Service Booking" width="250"/>
+  <img src="fixit3.png" alt="Service Booking" width="250"/>
 </p><br><br>
 <p align="center">
   <img src="admin.png" alt="Home Screen"/>
